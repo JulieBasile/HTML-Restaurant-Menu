@@ -2,7 +2,7 @@ html,
 body {
     margin: 0;
     padding: 0;
-    background-color: beige;
+    background-color: whitesmoke;
     text-align: center;
 }
 
@@ -28,7 +28,7 @@ main {
 }
 
 nav {
-    background-color: beige;
+    background-color: rgb(9, 19, 89);
     padding: 10px;
 }
 
